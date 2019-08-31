@@ -1,0 +1,78 @@
+{
+    "all": [
+        {
+            "id": 1,
+            "name": "白面鸮",
+            "type": 1,
+            "skillName":"莱茵科技·α",
+            "value1":25
+        },
+        {
+            "id": 2,
+            "name": "夜刀",
+            "type": 1,
+            "skillName":"标准化·α",
+            "value1":15
+        },
+        {
+            "id": 3,
+            "name": "芬",
+            "type": 1,
+            "skillName":"急性子",
+            "value1":20,
+            "step":2,
+            "value2":25
+        },
+        {
+            "id": 4,
+            "name": "克洛丝",
+            "type": 1,
+            "skillName":"慢性子",
+            "value1":15,
+            "step":2,
+            "value2":25
+        },
+        {
+            "id": 5,
+            "name": "赫默",
+            "type": 1,
+            "skillName":"莱茵科技·α",
+            "value1":25
+        },
+        {
+            "id": 6,
+            "name": "炎熔",
+            "type": 4,
+            "skillName":"源石工艺·β",
+            "value1":35
+        },
+        {
+            "id": 7,
+            "name": "夜烟",
+            "type": 3,
+            "skillName":"金属工艺·α",
+            "value1":30
+        },
+        {
+            "id": 8,
+            "name": "白雪",
+            "type": 2,
+            "skillName":"作战指导录像",
+            "value1":30
+        },
+        {
+            "id": 9,
+            "name": "流星",
+            "type": 1,
+            "skillName":"标准化·α",
+            "value1":15
+        },
+        {
+            "id": 10,
+            "name": "黑角",
+            "type": 1,
+            "skillName":"仓库整备·β",
+            "value1":10
+        }
+    ]
+}
